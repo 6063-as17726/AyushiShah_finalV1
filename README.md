@@ -7,6 +7,6 @@ Using a classic children's story, my idea with this project is to use audio and 
 Idea #3 Garden tracker 
 For this idea, I thought I could use the Arduino as a reminder of when plants in someone's garden need water, sunlight, etc. In this case, p5.js could serve as almost a repository of all the data for different plants, and could create visuals depicting how well the plants are thriving.The Arduino could use lights, sounds, and haptics to send notifications regarding plant care. 
 
-![GkNrXr.jpg](https://imgpile.com/images/GkNrXr.jpg)
+![GkNzpR.jpg](https://imgpile.com/images/GkNzpR.jpg)
 
 * Some of these ideas were developed with the help of ChatGPT
